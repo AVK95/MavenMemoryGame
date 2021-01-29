@@ -1,0 +1,7 @@
+﻿listen
+top
+left
+right
+speak
+next
+reset
